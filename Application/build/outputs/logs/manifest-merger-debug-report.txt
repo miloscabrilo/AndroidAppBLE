@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:20:1-54:12
+INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:20:1-54:12
+INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:20:1-54:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\1ca77dff6236ef5daaa04a34dce8dea7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\ecb07d57fc2bcc8bf2bff26ad372e4b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\03fea4225bf36d91121f444e7a77fada\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\9cf1e1397ec1ffcc6c42e67ea7ec08dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\c32fdd63b09fbb1a924d9e82e9d341c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\2bc628d293bdaa007ee7ca24ba74ab9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\be9c84be7fa17e13d70cb0822bee9593\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\2d53d263d8451132f540cc72b9080fa2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\4bbbe13f10646684d004944dac781f76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\26bffc7eff3af292e13760e031c24a58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\d9f84bc03db8abd120df575dd6fa36d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\c03b831726453372daa2b9c4fd5d4141\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\04800ebe31a588560218a5595053548b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\f43e8e88e98f6f5225acd8f0925cde0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\6fefec8787794fee0ec702bf0a20894d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\95850136c4574f11031d96fdfb7f369c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\746ecd68bec969c61e5538fd63a6bd0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\7e87e0447186d06d8c9bf1ecee630e06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\ebd16bffd315e9e01c38cfe271db02e5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\885a1acbf6d66d96a7ea1488069d05af\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\b630cd64b52929957fbac91b0f641c4f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\e45e754e0d0e5450541e27447450544b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\06cd0cc20c831a537ebd7f904ee960e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\afda01cbbb7ba9270021327c09762d66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\2ecf4f3cdca4ceec4e9afcb78d5aba57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\378d5ed2497a09a4b9b5386333b8cf8d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\971211be2202d70a5b3b30fcea8cbd9e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\7decaa0ee3720ea25dec9381770d255d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\0b0603242f07c9793ef7d75fa76980da\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\3e41162f23de6a305cdcc61a77e69a82\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:20:1-54:12
+INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:20:1-54:12
+	package
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:36:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:37:5-75
+	android:name
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:37:22-72
+application
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:39:5-52:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\ebd16bffd315e9e01c38cfe271db02e5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\ebd16bffd315e9e01c38cfe271db02e5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\885a1acbf6d66d96a7ea1488069d05af\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\885a1acbf6d66d96a7ea1488069d05af\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\ebd16bffd315e9e01c38cfe271db02e5\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:39:18-50
+	android:icon
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:40:9-45
+	android:theme
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:41:9-56
+activity#com.example.android.bluetoothlegatt.ConnectedDevice
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:42:9-62
+	android:name
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:42:19-50
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:43:9-49:20
+	android:label
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:43:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:45:13-48:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:46:17-68
+	android:name
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:47:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:50:9-58
+	android:name
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:50:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:51:9-77
+	android:enabled
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:51:53-75
+	android:name
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml:51:18-52
+uses-sdk
+INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\1ca77dff6236ef5daaa04a34dce8dea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\1ca77dff6236ef5daaa04a34dce8dea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\ecb07d57fc2bcc8bf2bff26ad372e4b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\ecb07d57fc2bcc8bf2bff26ad372e4b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\03fea4225bf36d91121f444e7a77fada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\03fea4225bf36d91121f444e7a77fada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\9cf1e1397ec1ffcc6c42e67ea7ec08dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\9cf1e1397ec1ffcc6c42e67ea7ec08dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\c32fdd63b09fbb1a924d9e82e9d341c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\c32fdd63b09fbb1a924d9e82e9d341c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\2bc628d293bdaa007ee7ca24ba74ab9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\2bc628d293bdaa007ee7ca24ba74ab9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\be9c84be7fa17e13d70cb0822bee9593\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\be9c84be7fa17e13d70cb0822bee9593\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\2d53d263d8451132f540cc72b9080fa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\2d53d263d8451132f540cc72b9080fa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\4bbbe13f10646684d004944dac781f76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\4bbbe13f10646684d004944dac781f76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\26bffc7eff3af292e13760e031c24a58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\26bffc7eff3af292e13760e031c24a58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\d9f84bc03db8abd120df575dd6fa36d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\d9f84bc03db8abd120df575dd6fa36d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\c03b831726453372daa2b9c4fd5d4141\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\c03b831726453372daa2b9c4fd5d4141\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\04800ebe31a588560218a5595053548b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\04800ebe31a588560218a5595053548b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\f43e8e88e98f6f5225acd8f0925cde0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\f43e8e88e98f6f5225acd8f0925cde0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\6fefec8787794fee0ec702bf0a20894d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\6fefec8787794fee0ec702bf0a20894d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\95850136c4574f11031d96fdfb7f369c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\95850136c4574f11031d96fdfb7f369c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\746ecd68bec969c61e5538fd63a6bd0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\746ecd68bec969c61e5538fd63a6bd0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\7e87e0447186d06d8c9bf1ecee630e06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\7e87e0447186d06d8c9bf1ecee630e06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\ebd16bffd315e9e01c38cfe271db02e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\ebd16bffd315e9e01c38cfe271db02e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\885a1acbf6d66d96a7ea1488069d05af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\885a1acbf6d66d96a7ea1488069d05af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\b630cd64b52929957fbac91b0f641c4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\b630cd64b52929957fbac91b0f641c4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\e45e754e0d0e5450541e27447450544b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\e45e754e0d0e5450541e27447450544b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\06cd0cc20c831a537ebd7f904ee960e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\06cd0cc20c831a537ebd7f904ee960e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\afda01cbbb7ba9270021327c09762d66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\afda01cbbb7ba9270021327c09762d66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\2ecf4f3cdca4ceec4e9afcb78d5aba57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\2ecf4f3cdca4ceec4e9afcb78d5aba57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\378d5ed2497a09a4b9b5386333b8cf8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\378d5ed2497a09a4b9b5386333b8cf8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\971211be2202d70a5b3b30fcea8cbd9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\971211be2202d70a5b3b30fcea8cbd9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\7decaa0ee3720ea25dec9381770d255d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\7decaa0ee3720ea25dec9381770d255d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\0b0603242f07c9793ef7d75fa76980da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\0b0603242f07c9793ef7d75fa76980da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\3e41162f23de6a305cdcc61a77e69a82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MilosCabrilo\.gradle\caches\transforms-2\files-2.1\3e41162f23de6a305cdcc61a77e69a82\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MilosCabrilo\AndroidStudioProjects\AndroidAppBle\Application\src\main\AndroidManifest.xml
