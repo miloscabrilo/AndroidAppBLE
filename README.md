@@ -22,5 +22,5 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/scan_device.png" height="400" alt="Screenshot"/> <img src="screenshots/select_device.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/scan_device.jpg" height="400" alt="Screenshot"/> <img src="screenshots/select_device.jpg" height="400" alt="Screenshot"/> 
 
