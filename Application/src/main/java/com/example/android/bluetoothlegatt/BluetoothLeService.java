@@ -317,6 +317,7 @@ public class BluetoothLeService extends Service {
         return mBluetoothGatt.getServices();
     }
 
+    // Function for read character.
     public void readCustomCharacteristic() {
         if (mBluetoothAdapter == null || mBluetoothGatt == null) {
             Log.w(TAG, "BluetoothAdapter not initialized");
@@ -325,6 +326,7 @@ public class BluetoothLeService extends Service {
         // TODO: Connected to the matching device for reading.
     }
 
+    // Function for write character.
     public void writeCustomCharacteristic(int value) {
         if (mBluetoothAdapter == null || mBluetoothGatt == null) {
             Log.w(TAG, "BluetoothAdapter not initialized");
